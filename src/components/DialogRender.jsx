@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function DialogRender(props) {
-  return <div>{props.children}</div>;
+  return <React.Fragment>{props.children}</React.Fragment>;
 }
 
 export default DialogRender;
