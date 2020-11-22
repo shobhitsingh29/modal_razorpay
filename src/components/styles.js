@@ -52,7 +52,7 @@ top: 0;
 bottom: 0;
 left: 0;
 right: 0;
-background: rgb(0 0 0 / 54%)
+background: rgb(40 30 156 / 54%)
 `;
 
 
