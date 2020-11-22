@@ -5,6 +5,7 @@ import {Container, AppDiv} from "./styles";
 export default function App() {
     const [open, setOpen] = useState(true);
     //const [modalRef, setModalRef] = useRef(null);
+
     const changeDialogState = () => {
         setOpen(!open);
     };
